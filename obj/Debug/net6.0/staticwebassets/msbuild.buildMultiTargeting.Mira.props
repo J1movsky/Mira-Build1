@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mira.props" />
+</Project>
