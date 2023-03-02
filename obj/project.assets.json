@@ -3702,11 +3702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Алёсов Д.А\\C_#\\Mira\\Mira.csproj",
+      "projectUniqueName": "C:\\Users\\alesov\\Mira\\Mira.csproj",
       "projectName": "Mira",
-      "projectPath": "D:\\Алёсов Д.А\\C_#\\Mira\\Mira.csproj",
+      "projectPath": "C:\\Users\\alesov\\Mira\\Mira.csproj",
       "packagesPath": "C:\\Users\\alesov\\.nuget\\packages\\",
-      "outputPath": "D:\\Алёсов Д.А\\C_#\\Mira\\obj\\",
+      "outputPath": "C:\\Users\\alesov\\Mira\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

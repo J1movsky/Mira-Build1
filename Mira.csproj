@@ -12,15 +12,14 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\AdminControllers\" />
-    <Folder Include="Domain\" />
     <Folder Include="Models\ViewComponents\" />
-    <Folder Include="Service\" />
     <Folder Include="wwwroot\Images\" />
     <Folder Include="wwwroot\sass\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="bundleconfig.json" />
+    <None Include="wwwroot\js\scripts.js" />
   </ItemGroup>
 
   <ItemGroup>

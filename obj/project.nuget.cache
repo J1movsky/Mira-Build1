@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ANvb22wsbf177cuN4x6Lpr5gW9Sf2ulVE6FbVWc1NZMOhR8u4sAg5qkRIKF7qcCLflbsb1Nw3bd1ahW7p4pXxw==",
+  "dgSpecHash": "GhmmTnpm5bZ1fNGrzibybgO+OpIxie99IHRz3aV3TmB/K1HeZL5ASagyrmHg3vlXz8lJyccuIXGk5jCp2iLv3A==",
   "success": true,
-  "projectFilePath": "D:\\Алёсов Д.А\\C_#\\Mira\\Mira.csproj",
+  "projectFilePath": "C:\\Users\\alesov\\Mira\\Mira.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alesov\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\alesov\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

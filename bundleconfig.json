@@ -1,6 +1,6 @@
 [
   {
-    "outputFileName": "#\\Mira\\wwwroot\\js\\scripts.js",
+    "outputFileName": "\\Mira\\wwwroot\\js\\scripts.js",
     "inputFiles": [
       "#\\Mira\\wwwroot\\js\\jquery.min.js",
       "#\\Mira\\wwwroot\\js\\breakpoints.min.js",

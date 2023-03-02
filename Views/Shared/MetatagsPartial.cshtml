@@ -1,11 +1,13 @@
-﻿<meta charset="utf-8" />
+﻿@using Mira.Service;
+
+<meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 @if (ViewBag.Title != null)
 {
     <title>@ViewBag.Title</title>
 }
 else{
-    <title>Mira - Мир мобильных телефонов</title>
+    <title>@Project.CompanyName</title>
 }
 @if (ViewBag.Description != null)
 {
